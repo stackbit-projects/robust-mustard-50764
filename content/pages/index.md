@@ -14,7 +14,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/classic/hero.png
+    image: images/Foto Nov 2019 Large size.jpg
     media_position: left
     media_width: fifty
     align: left
