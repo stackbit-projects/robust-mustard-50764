@@ -1,5 +1,5 @@
 ---
-title: Features
+title: FIGURAS
 sections:
   - type: hero_section
     title: Explore Features
